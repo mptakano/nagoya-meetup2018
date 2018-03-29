@@ -1,3 +1,2 @@
 Hello Nagoya!
 
-print(Hello)
